@@ -8,6 +8,8 @@
       {
         "image-alt": "off"
       }
-    ]
+    ],
+    "meta-viewport": "off",
+    "compat-api/css": "off"
   }
 }
