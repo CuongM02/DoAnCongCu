@@ -176,6 +176,7 @@
     font-family: "Abhaya Libre ExtraBold-Regular", Helvetica;
     position: absolute;
     height: 100px;
+    margin-top: 0;
     left: 0;
     font-weight: 400;
     color: transparent;
@@ -786,7 +787,7 @@
     gap: 20px;
     position: relative;
     flex: 0 0 auto;
-  }
+  } 
   
   .cart .text-wrapper-32 {
     position: relative;
@@ -802,7 +803,7 @@
   
   .cart .top-menu {
     position: fixed;
-    width: 1335px;
+    width: 100%;
     height: 113px;
     top: 0;
     left: 0;
@@ -810,7 +811,7 @@
   }
   
   .cart .logo-2 {
-    top: 12px;
+    top: -60px;
     font-family: "Abril Fatface-Regular", Helvetica;
     position: absolute;
     height: 100px;
